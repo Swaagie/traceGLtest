@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "lunr": "0.3.x"
+    "lunr": "~1.0.0"
   },
   "devDependencies": {},
   "repository": "git@github.com:Swaagie/traceGLtest.git",
